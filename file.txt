@@ -1,2 +1,0 @@
-This is a shared file.
-And now it is changed.
